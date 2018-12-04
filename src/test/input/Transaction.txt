@@ -1,0 +1,7 @@
+1,1,1,300,Shirt
+2,1,2,300,Shirt
+3,1,2,300,Shirt
+4,2,3,100,Headphone
+5,2,3,300,Headphone
+6,1,4,300,Shirt
+7,1,5,300,Shirt
